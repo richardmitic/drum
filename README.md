@@ -1,4 +1,2 @@
-drum
+rpi2
 ====
-
-Raspberry Pi drum pad
